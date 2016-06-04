@@ -1,0 +1,13 @@
+# .
+# .                     FarmProtect by ElSheriff 
+# .
+# .                Read the tutorial of the config at: 
+# .     https://www.spigotmc.org/resources/farmprotect-1-8-1-9.20635/
+# .
+options:
+  enabled: true
+  permission: farmprotect.bypass
+support-worlds:
+  - world
+  - world_nether
+  - world_the_end
