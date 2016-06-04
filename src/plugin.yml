@@ -1,0 +1,13 @@
+main: net.paincraft.FarmProtect.Main
+version: 1.0.3
+author: ElSheriff
+name: FarmProtect
+website: www.paincraft.net
+description: With this plugin, the players they won't able break the farm.
+commands:
+  farmprotect:
+    description: Information of the plugin - Reloads the config file
+permissions:
+  farmprotect.command.reload:
+    description: Permission for reload the config.
+    default: op
